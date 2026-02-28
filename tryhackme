@@ -1,3 +1,12 @@
 # This file captures what I am learning in TryHackMe. 
 
 ## 28 Fevruary 2026
+Screenshot 2026-02-28 153838.png
+
+I have completed the Windows CLI room today. I learnt about the basic commands.
+1. ver :shows the OS vision
+2. systeminfo :shows the information about the system
+3. nslookup :looks up a host or domain name and returns its IP address
+4. netstat :displays current command connections and listening ports
+5. tasklist :shows all the running process
+6. type :windows equivalent of cat in linux. displays the file contents
